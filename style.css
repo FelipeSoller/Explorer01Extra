@@ -11,7 +11,7 @@ body {
 
 #hero img {
   width: 350px;
-  margin-bottom: 72px;
+  margin-bottom: 32px;
 }
 
 #hero p + p {
@@ -54,7 +54,7 @@ p, #footer {
 }
 
 #footer {
-  margin-bottom: 33px;
+  margin: 64px auto 33px auto;
 }
 
 #footer a {
